@@ -1,0 +1,5 @@
+Task list:
+
+- Print picture.
+- Finish the GitHub course.
+- Include all daily training data.
